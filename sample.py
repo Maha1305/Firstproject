@@ -1,4 +1,5 @@
-a = 100
+a = "Rajesh"
 b = 20
 
-print(a+b)
+print(a)
+print(b)
