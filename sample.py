@@ -1,5 +1,5 @@
-a = "Rajesh"
+a = 20
 b = 20
 
-print(a)
-print(b)
+print(a+b)
+
